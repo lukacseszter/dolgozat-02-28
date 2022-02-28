@@ -1,0 +1,14 @@
+.container {
+    background-color: rgb(7, 231, 220);
+    margin: 5%;
+    padding: 15px;
+    border-radius: 10px;
+    border: solid 5px rgb(27, 156, 179);
+    box-shadow: 10px 10px 10px rgb(5, 217, 224);
+}
+
+input {
+    margin-bottom: 5px;
+    font-family: sans-serif;
+    box-shadow: 2px 2px 2px rgb(67, 164, 255);
+}
